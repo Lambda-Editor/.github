@@ -1,6 +1,6 @@
 # Lambda
 
-Official GitHub organization for **Lambda**, a lightweight retro game engine and editor focused on making development as painless as possible—abstracting away legacy toolchains and low-level hardware friction so you can build cleanly without fighting setup.
+Official GitHub organization for **Lambda**, a lightweight retro game engine and editor focused on making development as painless as possible, abstracting away legacy toolchains and low-level hardware friction so you can build cleanly without fighting setup.
 
 Here you'll find repositories across the Lambda ecosystem, including:
 - Core engine, runtime, and editor repositories built to simplify retro and cross-platform workflows.
